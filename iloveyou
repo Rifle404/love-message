@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Confession</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333;">
+    <h1 style="color: #ff5e5e;">I Love You</h1>
+    <p>
+        Every moment I think of you, my heart skips a beat.  
+        I want you to know that you're the most important part of my life.  
+        Will you be with me forever?
+    </p>
+    <h2 style="margin-top: 30px;">Here’s a song that reminds me of you:</h2>
+    <!-- Embed YouTube video -->
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/tK1_5yc4jHc" 
+        title="เธอยัง - Potato" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+    <footer style="margin-top: 50px; font-size: 0.9em; color: #777;">
+        <p>Made with ❤️ by Someone Who Truly Loves You</p>
+    </footer>
+</body>
+</html>
